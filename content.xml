@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605261748328A0B85</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605261748326FNM11</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PROYECTO: MISIÓN ANIMAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>¿Dónde viven y cómo se desplazan?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Antonio Jesús Romero Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto se enfoca en el aprendizaje sobre los animales, en particular en reconocer el entorno en el que viven (tierra, agua y aire) y la manera en que se desplazan (caminar, nadar y volar). Este tema de interés resulta muy atractivo y relevante para el alumnado de Educación Infantil, especialmente para aquellos con NEAE, ya que se trata de un contenido visual, cercano a su realidad y fácil de trabajar a través de imágenes, objetos y experiencias sensoriales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779809979364</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzf-bk0shzcv2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzf-bk0shzcv2</odePageId>
+      <odeBlockId>block-1779299545979-wr1fs1xib</odeBlockId>
+      <blockName>BIENVENIDOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzf-bk0shzcv2</odePageId>
+          <odeBlockId>block-1779299545979-wr1fs1xib</odeBlockId>
+          <odeIdeviceId>idevice-1779299545979-dryvc8f8z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><span style="font-size: 18pt;"><strong>¿ESTAIS PREPARADOS PARA NUESTRA MISIÓN ANIMAL LLENA DE DIVERSIÓN?</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 18pt;"><strong><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-20 191717.png" width="999" height="486" alt="" /></strong></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299545979-dryvc8f8z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\"><strong>¿ESTAIS PREPARADOS PARA NUESTRA MISIÓN ANIMAL LLENA DE DIVERSIÓN?</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\"><strong><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-20 191717.png\" width=\"999\" height=\"486\" alt=\"\" /></strong></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzi-mdy4x07al</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzi-mdy4x07al</odePageId>
+      <odeBlockId>block-1779297664607-tizuxlp6f</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzi-mdy4x07al</odePageId>
+          <odeBlockId>block-1779297664607-tizuxlp6f</odeBlockId>
+          <odeIdeviceId>idevice-1779297664605-3ssi0ebr3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hola compañeros/as,</p>
+<p style="text-align: justify;">A continuación adjunto el enlace que lleva al archivo donde presento y describo mi proyecto titulado "Misión animal: descubrir donde viven y como se desplazan"</p>
+<p style="text-align: justify;"><a href="https://drive.google.com/file/d/19gUapri_HyyEhzaiFYvpqLeHWCDFHvKo/view?usp=drive_link">https://drive.google.com/file/d/19gUapri_HyyEhzaiFYvpqLeHWCDFHvKo/view?usp=drive_link</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779297664605-3ssi0ebr3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hola compañeros/as,</p>\n<p style=\"text-align: justify;\">A continuación adjunto el enlace que lleva al archivo donde presento y describo mi proyecto titulado \"Misión animal: descubrir donde viven y como se desplazan\"</p>\n<p style=\"text-align: justify;\"><a href=\"https://drive.google.com/file/d/19gUapri_HyyEhzaiFYvpqLeHWCDFHvKo/view?usp=drive_link\">https://drive.google.com/file/d/19gUapri_HyyEhzaiFYvpqLeHWCDFHvKo/view?usp=drive_link</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzj-mwc4ftldh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzj-mwc4ftldh</odePageId>
+      <odeBlockId>block-1779297894616-07mpqu4ya</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzj-mwc4ftldh</odePageId>
+          <odeBlockId>block-1779297894616-07mpqu4ya</odeBlockId>
+          <odeIdeviceId>idevice-1779297894614-ues46orsr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado podremos conocer información sobre un uso seguro de los dispositivos digitales teniendo en cuenta la protección de datos personales y garantías de derechos digitales.</p>
+<p><img src="{{context_path}}/content/resources/Tarea 2.3 CDD B2.jpg" width="800" height="2000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779297894614-ues46orsr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado podremos conocer información sobre un uso seguro de los dispositivos digitales teniendo en cuenta la protección de datos personales y garantías de derechos digitales.</p>\n<p><img src=\"{{context_path}}/content/resources/Tarea 2.3 CDD B2.jpg\" width=\"800\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzj-aebe7ggi2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzj-aebe7ggi2</odePageId>
+      <odeBlockId>block-1779298125635-8nrkeu7dl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzj-aebe7ggi2</odePageId>
+          <odeBlockId>block-1779298125635-8nrkeu7dl</odeBlockId>
+          <odeIdeviceId>idevice-1779298125633-pzeqfg6zb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Herramienta digital propuesta:</strong><br />Genially</p>
+<p style="text-align: justify;"><strong>Objetivo de uso en el Proyecto:</strong><br />La herramienta Genially se utilizará para la creación del producto final del proyecto “Misión animal: descubrir dónde viven y cómo se desplazan”. El objetivo es elaborar un recurso digital interactivo en el que el alumnado pueda identificar animales, clasificarlos según su hábitat (tierra, agua o aire) y reconocer su forma de desplazamiento (caminar, nadar o volar) a través de elementos visuales, pictogramas e interacciones sencillas.</p>
+<p style="text-align: justify;"><strong>Justificación de la elección:</strong><br />La elección de Genially responde, en primer lugar, a su gran versatilidad, ya que permite integrar imágenes, animaciones, sonidos e interactividad en un mismo recurso, lo que resulta especialmente adecuado para un alumnado de 2º ciclo de Educación Infantil en aula específica. Este tipo de alumnado presenta necesidades educativas que requieren apoyos visuales constantes, tareas estructuradas y una reducción de la carga cognitiva, aspectos que Genially facilita mediante diseños claros y progresivos.</p>
+<p style="text-align: justify;">Además, el contexto del centro y la disponibilidad de recursos digitales básicos hacen viable su implementación, ya que se trata de una herramienta accesible y fácil de usar por parte del docente, sin requerir conocimientos técnicos avanzados.</p>
+<p style="text-align: justify;">En relación con la edad y características del alumnado, Genially permite crear actividades muy visuales e intuitivas, adaptadas a su nivel de competencia digital inicial. El alumnado no necesita manejar la herramienta de forma autónoma, sino que interactúa con el recurso mediante acciones simples (clic, selección), favoreciendo así la participación activa sin generar frustración.</p>
+<p style="text-align: justify;">Por último, el uso de esta herramienta se alinea con el enfoque metodológico del proyecto, basado en el aprendizaje visual, manipulativo y progresivo. Genially actúa como complemento al trabajo previo con materiales concretos y pictogramas, reforzando la comprensión y facilitando la generalización de los aprendizajes en un entorno digital accesible y motivador.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779298125633-pzeqfg6zb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Herramienta digital propuesta:</strong><br />Genially</p>\n<p style=\"text-align: justify;\"><strong>Objetivo de uso en el Proyecto:</strong><br />La herramienta Genially se utilizará para la creación del producto final del proyecto “Misión animal: descubrir dónde viven y cómo se desplazan”. El objetivo es elaborar un recurso digital interactivo en el que el alumnado pueda identificar animales, clasificarlos según su hábitat (tierra, agua o aire) y reconocer su forma de desplazamiento (caminar, nadar o volar) a través de elementos visuales, pictogramas e interacciones sencillas.</p>\n<p style=\"text-align: justify;\"><strong>Justificación de la elección:</strong><br />La elección de Genially responde, en primer lugar, a su gran versatilidad, ya que permite integrar imágenes, animaciones, sonidos e interactividad en un mismo recurso, lo que resulta especialmente adecuado para un alumnado de 2º ciclo de Educación Infantil en aula específica. Este tipo de alumnado presenta necesidades educativas que requieren apoyos visuales constantes, tareas estructuradas y una reducción de la carga cognitiva, aspectos que Genially facilita mediante diseños claros y progresivos.</p>\n<p style=\"text-align: justify;\">Además, el contexto del centro y la disponibilidad de recursos digitales básicos hacen viable su implementación, ya que se trata de una herramienta accesible y fácil de usar por parte del docente, sin requerir conocimientos técnicos avanzados.</p>\n<p style=\"text-align: justify;\">En relación con la edad y características del alumnado, Genially permite crear actividades muy visuales e intuitivas, adaptadas a su nivel de competencia digital inicial. El alumnado no necesita manejar la herramienta de forma autónoma, sino que interactúa con el recurso mediante acciones simples (clic, selección), favoreciendo así la participación activa sin generar frustración.</p>\n<p style=\"text-align: justify;\">Por último, el uso de esta herramienta se alinea con el enfoque metodológico del proyecto, basado en el aprendizaje visual, manipulativo y progresivo. Genially actúa como complemento al trabajo previo con materiales concretos y pictogramas, reforzando la comprensión y facilitando la generalización de los aprendizajes en un entorno digital accesible y motivador.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzk-kkv3q621c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzk-kkv3q621c</odePageId>
+      <odeBlockId>block-1779298503515-kh7eydb1t</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzk-kkv3q621c</odePageId>
+          <odeBlockId>block-1779298503515-kh7eydb1t</odeBlockId>
+          <odeIdeviceId>idevice-1779298503512-z4lvrwyt2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En este apartado llevo a cabo un proceso de selección, organización y difusión de materiales, teniendo siempre presente la importancia de que estos sean visuales, estructurados y accesibles para mi alumnado del aula específica. </p>
+<p style="text-align: justify;">Los organizo para ellos en categorías claras, como animales terrestres, acuáticos y aéreos, además de apartados como “cómo nos movemos”, “jugamos” y “repasamos”. Esta organización favorece la comprensión y la anticipación, aspectos especialmente relevantes para mi alumnado. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779298503512-z4lvrwyt2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En este apartado llevo a cabo un proceso de selección, organización y difusión de materiales, teniendo siempre presente la importancia de que estos sean visuales, estructurados y accesibles para mi alumnado del aula específica. </p>\n<p style=\"text-align: justify;\">Los organizo para ellos en categorías claras, como animales terrestres, acuáticos y aéreos, además de apartados como “cómo nos movemos”, “jugamos” y “repasamos”. Esta organización favorece la comprensión y la anticipación, aspectos especialmente relevantes para mi alumnado. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzk-qonwis87j</odePageId>
+  <odeParentPageId>page-mpmsnmzk-kkv3q621c</odeParentPageId>
+  <pageName>Herramienta para el alumnado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramienta para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramienta para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzk-qonwis87j</odePageId>
+      <odeBlockId>block-1779298717813-bivl9c05e</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzk-qonwis87j</odePageId>
+          <odeBlockId>block-1779298717813-bivl9c05e</odeBlockId>
+          <odeIdeviceId>idevice-1779298717812-0461nidv7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como primera herramienta, utilizo Padlet para recopilar los materiales necesarios para la elaboración del producto final del proyecto. En este espacio incluyo imágenes o pictogramas de animales, vídeos explicativos y actividades sencillas. Este recurso me permite presentar la información de forma visual, clara y adaptada a las características del alumnado. </p>
+<p><strong>Enlace:</strong> <a href="https://padlet.com/arommar627/mision-animal-descubrir-donde-viven-y-como-se-desplazan-p8s1ov973ivmcs7p">https://padlet.com/arommar627/mision-animal-descubrir-donde-viven-y-como-se-desplazan-p8s1ov973ivmcs7p</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779298717812-0461nidv7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como primera herramienta, utilizo Padlet para recopilar los materiales necesarios para la elaboración del producto final del proyecto. En este espacio incluyo imágenes o pictogramas de animales, vídeos explicativos y actividades sencillas. Este recurso me permite presentar la información de forma visual, clara y adaptada a las características del alumnado. </p>\n<p><strong>Enlace:</strong> <a href=\"https://padlet.com/arommar627/mision-animal-descubrir-donde-viven-y-como-se-desplazan-p8s1ov973ivmcs7p\">https://padlet.com/arommar627/mision-animal-descubrir-donde-viven-y-como-se-desplazan-p8s1ov973ivmcs7p</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzl-c0bkeewgw</odePageId>
+  <odeParentPageId>page-mpmsnmzk-kkv3q621c</odeParentPageId>
+  <pageName>Herramienta para el profesorado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramienta para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramienta para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzl-c0bkeewgw</odePageId>
+      <odeBlockId>block-1779298744729-tiq3ypxta</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzl-c0bkeewgw</odePageId>
+          <odeBlockId>block-1779298744729-tiq3ypxta</odeBlockId>
+          <odeIdeviceId>idevice-1779298744728-j31l9yobn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como segunda herramienta, empleo Symbaloo para organizar las herramientas digitales que utilizo habitualmente en el aula. Esta plataforma facilita una disposición visual basada en iconos y colores, lo que permite un acceso rápido y ordenado a los diferentes recursos.</p>
+<p><strong>Enlace:</strong> <a href="https://www.symbaloo.com/shared/AAAAA_kDbvYAA41_W3RUag">https://www.symbaloo.com/shared/AAAAA_kDbvYAA41_W3RUag</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779298744728-j31l9yobn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como segunda herramienta, empleo Symbaloo para organizar las herramientas digitales que utilizo habitualmente en el aula. Esta plataforma facilita una disposición visual basada en iconos y colores, lo que permite un acceso rápido y ordenado a los diferentes recursos.</p>\n<p><strong>Enlace:</strong> <a href=\"https://www.symbaloo.com/shared/AAAAA_kDbvYAA41_W3RUag\">https://www.symbaloo.com/shared/AAAAA_kDbvYAA41_W3RUag</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzl-h9rgby43w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzl-h9rgby43w</odePageId>
+      <odeBlockId>block-1779299471797-hbt0xto1g</odeBlockId>
+      <blockName>LÍNEA TEMPORAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzl-h9rgby43w</odePageId>
+          <odeBlockId>block-1779299471797-hbt0xto1g</odeBlockId>
+          <odeIdeviceId>idevice-1779299471796-xj6nnen0u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-20 194125.png" width="1393" height="901" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779299471796-xj6nnen0u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-20 194125.png\" width=\"1393\" height=\"901\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzm-qyhk2owk1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzm-qyhk2owk1</odePageId>
+      <odeBlockId>block-1779379805374-j2o86jnvq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzm-qyhk2owk1</odePageId>
+          <odeBlockId>block-1779379805374-j2o86jnvq</odeBlockId>
+          <odeIdeviceId>idevice-1779379805369-0xgyxkv2q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/B2.png" width="1536" height="1152" alt="" /></p>
+<p></p>
+<h1><strong><span style="color: #236fa1;">ORIENTACIONES METODOLÓGICAS</span></strong></h1>
+<ol>
+<li>Establecer rutinas claras y predecibles en todas las sesiones.</li>
+<li>Utilizar apoyos visuales permanentes (pictogramas, paneles y secuencias).</li>
+<li>Priorizar actividades manipulativas y sensoriales antes del trabajo digital.</li>
+<li>Presentar los aprendizajes de forma progresiva y con una sola consigna cada vez.</li>
+<li>Adaptar el nivel de dificultad a las necesidades y ritmo de cada alumno/a.</li>
+<li>Favorecer la comunicación funcional mediante lenguaje oral, gestos y SAAC.</li>
+<li>Utilizar herramientas digitales sencillas, intuitivas y siempre guiadas por el docente.</li>
+<li>Combinar actividades individuales, en pequeño grupo y en gran grupo para fomentar la participación.</li>
+<li>Realizar actividades breves, dinámicas y motivadoras relacionadas con el interés por los animales.</li>
+<li>Evaluar mediante observación continua, valorando la participación, comprensión y autonomía del alumnado.</li>
+</ol>
+<h1><span style="color: #236fa1;"><strong>PRINCIPIOS DUA</strong></span></h1>
+<ol>
+<li><span style="color: #000000;">Proporcionar múltiples formas de representación de la información mediante pictogramas, imágenes reales, objetos manipulativos, sonidos y vídeos.</span></li>
+<li><span style="color: #000000;">Facilitar diferentes formas de acción y expresión, permitiendo señalar, manipular, verbalizar, imitar o usar apoyos visuales para responder.</span></li>
+<li><span style="color: #000000;">Ofrecer múltiples formas de implicación utilizando actividades motivadoras relacionadas con los animales y el juego.</span></li>
+<li><span style="color: #000000;">Reducir la carga cognitiva presentando tareas simples, secuenciadas y con instrucciones claras.</span></li>
+<li><span style="color: #000000;">Anticipar las actividades mediante rutinas visuales y secuencias estructuradas que favorezcan la comprensión y la seguridad.</span></li>
+<li><span style="color: #000000;">Ajustar los apoyos y el nivel de ayuda según las necesidades individuales de cada alumno/a.</span></li>
+<li><span style="color: #000000;">Favorecer la participación activa mediante experiencias manipulativas, sensoriales y corporales.</span></li>
+<li><span style="color: #000000;">Utilizar recursos digitales accesibles, intuitivos y adaptados al nivel madurativo del alumnado.</span></li>
+<li><span style="color: #000000;">Promover la interacción social y el aprendizaje cooperativo en pequeño y gran grupo.</span></li>
+<li><span style="color: #000000;">Reforzar positivamente los logros y avances individuales para aumentar la motivación y la autoestima.</span></li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779379805369-0xgyxkv2q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/B2.png\" width=\"1536\" height=\"1152\" alt=\"\" /></p>\n<p></p>\n<h1><strong><span style=\"color: #236fa1;\">ORIENTACIONES METODOLÓGICAS</span></strong></h1>\n<ol>\n<li>Establecer rutinas claras y predecibles en todas las sesiones.</li>\n<li>Utilizar apoyos visuales permanentes (pictogramas, paneles y secuencias).</li>\n<li>Priorizar actividades manipulativas y sensoriales antes del trabajo digital.</li>\n<li>Presentar los aprendizajes de forma progresiva y con una sola consigna cada vez.</li>\n<li>Adaptar el nivel de dificultad a las necesidades y ritmo de cada alumno/a.</li>\n<li>Favorecer la comunicación funcional mediante lenguaje oral, gestos y SAAC.</li>\n<li>Utilizar herramientas digitales sencillas, intuitivas y siempre guiadas por el docente.</li>\n<li>Combinar actividades individuales, en pequeño grupo y en gran grupo para fomentar la participación.</li>\n<li>Realizar actividades breves, dinámicas y motivadoras relacionadas con el interés por los animales.</li>\n<li>Evaluar mediante observación continua, valorando la participación, comprensión y autonomía del alumnado.</li>\n</ol>\n<h1><span style=\"color: #236fa1;\"><strong>PRINCIPIOS DUA</strong></span></h1>\n<ol>\n<li><span style=\"color: #000000;\">Proporcionar múltiples formas de representación de la información mediante pictogramas, imágenes reales, objetos manipulativos, sonidos y vídeos.</span></li>\n<li><span style=\"color: #000000;\">Facilitar diferentes formas de acción y expresión, permitiendo señalar, manipular, verbalizar, imitar o usar apoyos visuales para responder.</span></li>\n<li><span style=\"color: #000000;\">Ofrecer múltiples formas de implicación utilizando actividades motivadoras relacionadas con los animales y el juego.</span></li>\n<li><span style=\"color: #000000;\">Reducir la carga cognitiva presentando tareas simples, secuenciadas y con instrucciones claras.</span></li>\n<li><span style=\"color: #000000;\">Anticipar las actividades mediante rutinas visuales y secuencias estructuradas que favorezcan la comprensión y la seguridad.</span></li>\n<li><span style=\"color: #000000;\">Ajustar los apoyos y el nivel de ayuda según las necesidades individuales de cada alumno/a.</span></li>\n<li><span style=\"color: #000000;\">Favorecer la participación activa mediante experiencias manipulativas, sensoriales y corporales.</span></li>\n<li><span style=\"color: #000000;\">Utilizar recursos digitales accesibles, intuitivos y adaptados al nivel madurativo del alumnado.</span></li>\n<li><span style=\"color: #000000;\">Promover la interacción social y el aprendizaje cooperativo en pequeño y gran grupo.</span></li>\n<li><span style=\"color: #000000;\">Reforzar positivamente los logros y avances individuales para aumentar la motivación y la autoestima.</span></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzn-96jgyov1t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tareas</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzn-96jgyov1t</odePageId>
+      <odeBlockId>block-1779382111448-jipsi8u8o</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzn-96jgyov1t</odePageId>
+          <odeBlockId>block-1779382111448-jipsi8u8o</odeBlockId>
+          <odeIdeviceId>idevice-1779382111446-zhjhehbge</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado veremos las tareas de las que se compone el proyecto y nos van a guiar hacia el producto final</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779382111446-zhjhehbge","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado veremos las tareas de las que se compone el proyecto y nos van a guiar hacia el producto final</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzn-cyp7bd7sb</odePageId>
+  <odeParentPageId>page-mpmsnmzn-96jgyov1t</odeParentPageId>
+  <pageName>Tarea 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzn-cyp7bd7sb</odePageId>
+      <odeBlockId>block-1779381153355-ew4xxfkw1</odeBlockId>
+      <blockName>Asamblea Inicial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzn-cyp7bd7sb</odePageId>
+          <odeBlockId>block-1779381153355-ew4xxfkw1</odeBlockId>
+          <odeIdeviceId>idevice-1779381153353-ztddlu666</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La sesión comienza en la asamblea, con todo el alumnado sentado en círculo frente a un panel de pictogramas o imágenes visuales de diferentes animales. El docente va mostrando uno a uno los pictogramas y nombrando cada animal de forma clara y pausada, acompañando siempre el lenguaje oral con apoyos gestuales y visuales.</p>
+<p style="text-align: justify;">Se anima al alumnado a participar señalando, eligiendo o nombrando aquellos animales que ya conocen. Algunos alumnos podrán responder verbalmente, mientras que otros lo harán mediante la mirada, el señalamiento o utilizando sistemas aumentativos de comunicación.</p>
+<p style="text-align: justify;">La actividad debe desarrollarse en un ambiente relajado y motivador, reforzando positivamente cada participación para favorecer la comunicación y la atención conjunta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381153353-ztddlu666","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La sesión comienza en la asamblea, con todo el alumnado sentado en círculo frente a un panel de pictogramas o imágenes visuales de diferentes animales. El docente va mostrando uno a uno los pictogramas y nombrando cada animal de forma clara y pausada, acompañando siempre el lenguaje oral con apoyos gestuales y visuales.</p>\n<p style=\"text-align: justify;\">Se anima al alumnado a participar señalando, eligiendo o nombrando aquellos animales que ya conocen. Algunos alumnos podrán responder verbalmente, mientras que otros lo harán mediante la mirada, el señalamiento o utilizando sistemas aumentativos de comunicación.</p>\n<p style=\"text-align: justify;\">La actividad debe desarrollarse en un ambiente relajado y motivador, reforzando positivamente cada participación para favorecer la comunicación y la atención conjunta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzp-xbdrrhq65</odePageId>
+  <odeParentPageId>page-mpmsnmzn-96jgyov1t</odeParentPageId>
+  <pageName>Tarea 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzp-xbdrrhq65</odePageId>
+      <odeBlockId>block-1779381221038-20xu0hjt7</odeBlockId>
+      <blockName>Exploración sensorial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzp-xbdrrhq65</odePageId>
+          <odeBlockId>block-1779381221038-20xu0hjt7</odeBlockId>
+          <odeIdeviceId>idevice-1779381221036-3j21ud00l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta actividad se presentan diferentes animales de juguete adaptados al tamaño y necesidades manipulativas del alumnado. El objetivo es que puedan explorar libremente los materiales mediante el tacto, la observación y la manipulación.</p>
+<p style="text-align: justify;">El docente guía la exploración realizando preguntas sencillas como “¿qué animal es?”, “¿es grande o pequeño?” o “¿qué sonido hace?”. También puede modelar acciones como mover los animales o representar cómo se desplazan.</p>
+<p style="text-align: justify;">Es importante permitir tiempo suficiente para que cada niño o niña observe, toque y experimente a su ritmo, favoreciendo la curiosidad y el aprendizaje a través de la experiencia directa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381221036-3j21ud00l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta actividad se presentan diferentes animales de juguete adaptados al tamaño y necesidades manipulativas del alumnado. El objetivo es que puedan explorar libremente los materiales mediante el tacto, la observación y la manipulación.</p>\n<p style=\"text-align: justify;\">El docente guía la exploración realizando preguntas sencillas como “¿qué animal es?”, “¿es grande o pequeño?” o “¿qué sonido hace?”. También puede modelar acciones como mover los animales o representar cómo se desplazan.</p>\n<p style=\"text-align: justify;\">Es importante permitir tiempo suficiente para que cada niño o niña observe, toque y experimente a su ritmo, favoreciendo la curiosidad y el aprendizaje a través de la experiencia directa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzq-0xsvqucuo</odePageId>
+  <odeParentPageId>page-mpmsnmzn-96jgyov1t</odeParentPageId>
+  <pageName>Tarea 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzq-0xsvqucuo</odePageId>
+      <odeBlockId>block-1779381285666-hzts4hyic</odeBlockId>
+      <blockName>Asociación imagen real-pictograma</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzq-0xsvqucuo</odePageId>
+          <odeBlockId>block-1779381285666-hzts4hyic</odeBlockId>
+          <odeIdeviceId>idevice-1779381285665-lnz1p2flq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El alumnado trabaja de forma individual con tarjetas que contienen fotografías reales de animales y sus pictogramas correspondientes.</p>
+<p style="text-align: justify;">El docente presenta primero las imágenes y verbaliza el nombre de cada animal para asegurar la comprensión. Después, el alumno o alumna debe relacionar la fotografía real con el pictograma correspondiente colocándolos juntos sobre la mesa o en un panel.</p>
+<p style="text-align: justify;">Durante la actividad se ofrecen ayudas visuales, modelado y apoyo verbal si fuese necesario. La finalidad es favorecer la comprensión de diferentes formas de representación visual y consolidar el reconocimiento de animales conocidos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381285665-lnz1p2flq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El alumnado trabaja de forma individual con tarjetas que contienen fotografías reales de animales y sus pictogramas correspondientes.</p>\n<p style=\"text-align: justify;\">El docente presenta primero las imágenes y verbaliza el nombre de cada animal para asegurar la comprensión. Después, el alumno o alumna debe relacionar la fotografía real con el pictograma correspondiente colocándolos juntos sobre la mesa o en un panel.</p>\n<p style=\"text-align: justify;\">Durante la actividad se ofrecen ayudas visuales, modelado y apoyo verbal si fuese necesario. La finalidad es favorecer la comprensión de diferentes formas de representación visual y consolidar el reconocimiento de animales conocidos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzr-xxfeewkmj</odePageId>
+  <odeParentPageId>page-mpmsnmzn-96jgyov1t</odeParentPageId>
+  <pageName>Tarea 4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzr-xxfeewkmj</odePageId>
+      <odeBlockId>block-1779381457215-soqhggjsv</odeBlockId>
+      <blockName>Clasificación por hábitat: tierra, mar o aire</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzr-xxfeewkmj</odePageId>
+          <odeBlockId>block-1779381457215-soqhggjsv</odeBlockId>
+          <odeIdeviceId>idevice-1779381457214-7qjbgsz5m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En pequeño grupo, el alumnado realiza una actividad de clasificación utilizando imágenes o figuras de animales y un panel dividido en tres espacios: tierra, agua y aire.</p>
+<p style="text-align: justify;">El docente explica previamente cada hábitat mediante ejemplos visuales y apoyos orales sencillos. Después, cada alumno o alumna selecciona un animal y debe colocarlo en el lugar correspondiente del panel.</p>
+<p style="text-align: justify;">La actividad debe hacerse de manera guiada, permitiendo el ensayo y el error y reforzando verbalmente las respuestas correctas. Se recomienda trabajar pocos animales cada vez para evitar sobrecarga cognitiva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381457214-7qjbgsz5m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En pequeño grupo, el alumnado realiza una actividad de clasificación utilizando imágenes o figuras de animales y un panel dividido en tres espacios: tierra, agua y aire.</p>\n<p style=\"text-align: justify;\">El docente explica previamente cada hábitat mediante ejemplos visuales y apoyos orales sencillos. Después, cada alumno o alumna selecciona un animal y debe colocarlo en el lugar correspondiente del panel.</p>\n<p style=\"text-align: justify;\">La actividad debe hacerse de manera guiada, permitiendo el ensayo y el error y reforzando verbalmente las respuestas correctas. Se recomienda trabajar pocos animales cada vez para evitar sobrecarga cognitiva.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzr-woyj6y0yv</odePageId>
+  <odeParentPageId>page-mpmsnmzn-96jgyov1t</odeParentPageId>
+  <pageName>Tarea 5</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzr-woyj6y0yv</odePageId>
+      <odeBlockId>block-1779381559156-fiib8cg0e</odeBlockId>
+      <blockName>Juego motor</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzr-woyj6y0yv</odePageId>
+          <odeBlockId>block-1779381559156-fiib8cg0e</odeBlockId>
+          <odeIdeviceId>idevice-1779381559155-vh7hut9t3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La actividad se desarrolla en gran grupo y en un espacio amplio del aula. El docente muestra imágenes o vídeos cortos de animales desplazándose y propone al alumnado imitarlos corporalmente.</p>
+<p style="text-align: justify;">Los niños y niñas pueden caminar como un elefante, saltar como un conejo, reptar como una serpiente o mover los brazos como si volaran. El objetivo es favorecer la expresión corporal, la coordinación motriz y la participación activa a través del juego.</p>
+<p style="text-align: justify;">El docente debe modelar previamente cada movimiento y adaptar las propuestas a las capacidades motrices de cada alumno o alumna, priorizando siempre la participación y el disfrute.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381559155-vh7hut9t3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La actividad se desarrolla en gran grupo y en un espacio amplio del aula. El docente muestra imágenes o vídeos cortos de animales desplazándose y propone al alumnado imitarlos corporalmente.</p>\n<p style=\"text-align: justify;\">Los niños y niñas pueden caminar como un elefante, saltar como un conejo, reptar como una serpiente o mover los brazos como si volaran. El objetivo es favorecer la expresión corporal, la coordinación motriz y la participación activa a través del juego.</p>\n<p style=\"text-align: justify;\">El docente debe modelar previamente cada movimiento y adaptar las propuestas a las capacidades motrices de cada alumno o alumna, priorizando siempre la participación y el disfrute.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzs-o4m0th1bw</odePageId>
+  <odeParentPageId>page-mpmsnmzn-96jgyov1t</odeParentPageId>
+  <pageName>Tarea 6</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzs-o4m0th1bw</odePageId>
+      <odeBlockId>block-1779381653146-9avenl14q</odeBlockId>
+      <blockName>Asociación de cada animal con su forma de desplazamiento</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzs-o4m0th1bw</odePageId>
+          <odeBlockId>block-1779381653146-9avenl14q</odeBlockId>
+          <odeIdeviceId>idevice-1779381653145-s5hn1zy8g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta propuesta, el alumnado relaciona distintos animales con la manera en la que se desplazan: caminar, nadar o volar.</p>
+<p style="text-align: justify;">Se utilizan tarjetas manipulativas emparejables con imágenes claras y visuales. Primero, el docente explica y ejemplifica cada forma de desplazamiento. Después, cada alumno o alumna debe unir el animal con la acción correspondiente.</p>
+<p style="text-align: justify;">La actividad puede realizarse sobre la mesa o mediante paneles de velcro, ofreciendo apoyo verbal y visual cuando sea necesario. El objetivo es establecer relaciones sencillas entre las características de los animales y sus acciones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381653145-s5hn1zy8g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta propuesta, el alumnado relaciona distintos animales con la manera en la que se desplazan: caminar, nadar o volar.</p>\n<p style=\"text-align: justify;\">Se utilizan tarjetas manipulativas emparejables con imágenes claras y visuales. Primero, el docente explica y ejemplifica cada forma de desplazamiento. Después, cada alumno o alumna debe unir el animal con la acción correspondiente.</p>\n<p style=\"text-align: justify;\">La actividad puede realizarse sobre la mesa o mediante paneles de velcro, ofreciendo apoyo verbal y visual cuando sea necesario. El objetivo es establecer relaciones sencillas entre las características de los animales y sus acciones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzt-wvsn7p0xx</odePageId>
+  <odeParentPageId>page-mpmsnmzn-96jgyov1t</odeParentPageId>
+  <pageName>Tarea 7</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 7</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 7</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzt-wvsn7p0xx</odePageId>
+      <odeBlockId>block-1779381683656-olmh4y5ti</odeBlockId>
+      <blockName>Mural</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzt-wvsn7p0xx</odePageId>
+          <odeBlockId>block-1779381683656-olmh4y5ti</odeBlockId>
+          <odeIdeviceId>idevice-1779381683656-pks504jnn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta actividad consiste en elaborar de manera grupal un mural grande donde aparezcan distintos hábitats y animales.</p>
+<p style="text-align: justify;">Cada alumno o alumna participa coloreando, pegando o colocando animales en el espacio correspondiente del mural. El docente organiza la tarea de forma cooperativa, repartiendo pequeñas responsabilidades adaptadas a cada nivel de autonomía.</p>
+<p style="text-align: justify;">Durante el proceso se fomenta la interacción entre iguales, la ayuda mutua y el respeto por las producciones de los compañeros. Finalmente, el mural puede exponerse en el aula como elemento de repaso y motivación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381683656-pks504jnn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta actividad consiste en elaborar de manera grupal un mural grande donde aparezcan distintos hábitats y animales.</p>\n<p style=\"text-align: justify;\">Cada alumno o alumna participa coloreando, pegando o colocando animales en el espacio correspondiente del mural. El docente organiza la tarea de forma cooperativa, repartiendo pequeñas responsabilidades adaptadas a cada nivel de autonomía.</p>\n<p style=\"text-align: justify;\">Durante el proceso se fomenta la interacción entre iguales, la ayuda mutua y el respeto por las producciones de los compañeros. Finalmente, el mural puede exponerse en el aula como elemento de repaso y motivación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzt-zlt7eo6nw</odePageId>
+  <odeParentPageId>page-mpmsnmzn-96jgyov1t</odeParentPageId>
+  <pageName>Tarea 8: PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 8: PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 8</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 8: PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzt-zlt7eo6nw</odePageId>
+      <odeBlockId>block-1779381718543-7yqm6nbuq</odeBlockId>
+      <blockName>Producto Final: Genially</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzt-zlt7eo6nw</odePageId>
+          <odeBlockId>block-1779381718543-7yqm6nbuq</odeBlockId>
+          <odeIdeviceId>idevice-1779381718541-69u7lbskn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Como actividad final, el alumnado participa en una propuesta digital sencilla utilizando la Pizarra Digital Interactiva con apoyo del docente.</p>
+<p style="text-align: justify;">A través de un Genially interactivo, los niños y niñas deben clasificar animales según su hábitat o su forma de desplazamiento arrastrando imágenes o seleccionando respuestas visuales.</p>
+<p style="text-align: justify;">Antes de realizar la actividad digital, el contenido ya debe haberse trabajado previamente de forma manipulativa y visual. El docente acompaña constantemente el proceso, guiando la interacción y ofreciendo ayuda individualizada cuando sea necesario.</p>
+<p style="text-align: justify;">La finalidad principal es reforzar los aprendizajes adquiridos y favorecer un uso funcional y accesible de herramientas digitales adaptadas al alumnado.</p>
+<p style="text-align: justify;"><strong>ENLACE A GENIALLY:    <a href="https://view.genially.com/6a108042f6b2c61cf9b9a171">https://view.genially.com/6a108042f6b2c61cf9b9a171</a> </strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381718541-69u7lbskn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Como actividad final, el alumnado participa en una propuesta digital sencilla utilizando la Pizarra Digital Interactiva con apoyo del docente.</p>\n<p style=\"text-align: justify;\">A través de un Genially interactivo, los niños y niñas deben clasificar animales según su hábitat o su forma de desplazamiento arrastrando imágenes o seleccionando respuestas visuales.</p>\n<p style=\"text-align: justify;\">Antes de realizar la actividad digital, el contenido ya debe haberse trabajado previamente de forma manipulativa y visual. El docente acompaña constantemente el proceso, guiando la interacción y ofreciendo ayuda individualizada cuando sea necesario.</p>\n<p style=\"text-align: justify;\">La finalidad principal es reforzar los aprendizajes adquiridos y favorecer un uso funcional y accesible de herramientas digitales adaptadas al alumnado.</p>\n<p style=\"text-align: justify;\"><strong>ENLACE A GENIALLY:    <a href=\"https://view.genially.com/6a108042f6b2c61cf9b9a171\">https://view.genially.com/6a108042f6b2c61cf9b9a171</a> </strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzu-ijqx00p1q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzu-ijqx00p1q</odePageId>
+      <odeBlockId>block-1779381860270-d1qgf01pl</odeBlockId>
+      <blockName>Instrumentos de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzu-ijqx00p1q</odePageId>
+          <odeBlockId>block-1779381860270-d1qgf01pl</odeBlockId>
+          <odeIdeviceId>idevice-1779381860268-01mil4kh3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><strong><span style="color: #236fa1;">LISTA DE COTEJO</span></strong></h1>
+<p><strong><span style="color: #236fa1;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 184510.png" width="669" height="757" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></strong></p>
+<h1 style="text-align: center;"><span style="color: #236fa1;"><strong>REGISTRO ANECDÓTICO</strong></span></h1>
+<p><span style="color: #236fa1;"><strong><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-21 184649.png" width="738" height="608" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></strong></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779381860268-01mil4kh3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong><span style=\"color: #236fa1;\">LISTA DE COTEJO</span></strong></h1>\n<p><strong><span style=\"color: #236fa1;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 184510.png\" width=\"669\" height=\"757\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></strong></p>\n<h1 style=\"text-align: center;\"><span style=\"color: #236fa1;\"><strong>REGISTRO ANECDÓTICO</strong></span></h1>\n<p><span style=\"color: #236fa1;\"><strong><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-21 184649.png\" width=\"738\" height=\"608\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmsnmzu-zvekzmlzo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Autoría</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoría</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoría</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzu-zvekzmlzo</odePageId>
+      <odeBlockId>block-1779726547087-w04efojp3</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzu-zvekzmlzo</odePageId>
+          <odeBlockId>block-1779726547087-w04efojp3</odeBlockId>
+          <odeIdeviceId>idevice-1779726547085-kjkklznfl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Proyecto elaborado por Antonio Jesús Romero Martínez dentro de la formación en Competencia Digital Docente Nivel B2.<br /><strong>Descripción del recurso:</strong><br />Esta Situación de Aprendizaje, titulada “Misión animal: descubrir dónde viven y cómo se desplazan”, está dirigida al alumnado de un aula específica con un nivel curricular de Educación Infantil, y tiene como finalidad favorecer el aprendizaje significativo sobre los animales, sus hábitats y formas de desplazamiento mediante actividades manipulativas, visuales y digitales adaptadas al alumnado.<br /></p>
+<p>El recurso ha sido creado con eXeLearning.</p>
+<p>Todos los recursos utilizados en esta Situación de Aprendizaje respetan la propiedad intelectual y las condiciones de uso establecidas por sus autores y plataformas de procedencia.</p>
+<p>Las imágenes, pictogramas, vídeos, audios y demás materiales externos utilizados han sido seleccionados de bancos de recursos educativos y plataformas con licencias abiertas o de uso educativo, indicando siempre su autoría y tipo de licencia cuando corresponde.<br /></p>
+<p>Entre los recursos utilizados destacan:</p>
+<p>ARASAAC – Pictogramas con licencia Creative Commons BY-NC-SA.<br />Pixabay – Imágenes y vídeos libres de derechos para uso educativo.<br />Canva y Genially – Recursos gráficos y plantillas educativas.<br />YouTube – Vídeos educativos enlazados desde sus canales originales.<br />Asimismo, las elaboraciones propias incluidas en este proyecto se comparten bajo licencia Creative Commons, favoreciendo su uso y adaptación con finalidad educativa y no comercial.</p>
+<p><br /><strong>Licencia del proyecto:</strong><br />Creative Commons Reconocimiento-NoComercial-CompartirIgual (CC BY-NC-SA).</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779726547085-kjkklznfl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Proyecto elaborado por Antonio Jesús Romero Martínez dentro de la formación en Competencia Digital Docente Nivel B2.<br /><strong>Descripción del recurso:</strong><br />Esta Situación de Aprendizaje, titulada “Misión animal: descubrir dónde viven y cómo se desplazan”, está dirigida al alumnado de un aula específica con un nivel curricular de Educación Infantil, y tiene como finalidad favorecer el aprendizaje significativo sobre los animales, sus hábitats y formas de desplazamiento mediante actividades manipulativas, visuales y digitales adaptadas al alumnado.<br /></p>\n<p>El recurso ha sido creado con eXeLearning.</p>\n<p>Todos los recursos utilizados en esta Situación de Aprendizaje respetan la propiedad intelectual y las condiciones de uso establecidas por sus autores y plataformas de procedencia.</p>\n<p>Las imágenes, pictogramas, vídeos, audios y demás materiales externos utilizados han sido seleccionados de bancos de recursos educativos y plataformas con licencias abiertas o de uso educativo, indicando siempre su autoría y tipo de licencia cuando corresponde.<br /></p>\n<p>Entre los recursos utilizados destacan:</p>\n<p>ARASAAC – Pictogramas con licencia Creative Commons BY-NC-SA.<br />Pixabay – Imágenes y vídeos libres de derechos para uso educativo.<br />Canva y Genially – Recursos gráficos y plantillas educativas.<br />YouTube – Vídeos educativos enlazados desde sus canales originales.<br />Asimismo, las elaboraciones propias incluidas en este proyecto se comparten bajo licencia Creative Commons, favoreciendo su uso y adaptación con finalidad educativa y no comercial.</p>\n<p><br /><strong>Licencia del proyecto:</strong><br />Creative Commons Reconocimiento-NoComercial-CompartirIgual (CC BY-NC-SA).</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpmsnmzu-zvekzmlzo</odePageId>
+      <odeBlockId>block-1779810210501-0seu91x66</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmsnmzu-zvekzmlzo</odePageId>
+          <odeBlockId>block-1779810210501-0seu91x66</odeBlockId>
+          <odeIdeviceId>idevice-1779810210500-0i0j9uda9</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">PROYECTO: MISIÓN ANIMAL</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El proyecto se enfoca en el aprendizaje sobre los animales, en particular en reconocer el entorno en el que viven (tierra, agua y aire) y la manera en que se desplazan (caminar, nadar y volar). Este tema de interés resulta muy atractivo y relevante para el alumnado de Educación Infantil, especialmente para aquellos con NEAE, ya que se trata de un contenido visual, cercano a su realidad y fácil de trabajar a través de imágenes, objetos y experiencias sensoriales.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Antonio Jesús Romero Martínez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
